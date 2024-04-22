@@ -2,7 +2,7 @@
 import { useState,useEffect } from "react"
 import io from 'socket.io-client'
 
-const socket = io("https://simplechatapp-6.onrender.com")
+const socket = io("https://662625ebb7face6a35c03b3c--capable-baklava-363404.netlify.app/")
 
 const App = () => {
 
